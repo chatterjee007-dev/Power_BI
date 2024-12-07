@@ -20,7 +20,7 @@ The **USA Crime Data Analysis Dashboard** is an interactive Power BI visualizati
 *Figure: Geospatial Distribution and Temporal Analysis of Crime Rates in the United States (1975-2010)*  
 
 ![USA Crime Data Analysis Dashboard - Geographical Distribution of Crimes](Images/Dashboard_Image.png)  
-*Figure: Geographical Distribution of Crimes*  
+*Figure: USA Crime Statistics and Population Dynamics Dashboard - Unveiling Trends and Insights Over Four Decades*  
 
 ---
 
