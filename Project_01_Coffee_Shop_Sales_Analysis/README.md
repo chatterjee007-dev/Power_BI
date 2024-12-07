@@ -1,10 +1,10 @@
-# **Coffee Shop Sales Analysis Dashboard**  
+# **Coffee Shop Sales Analysis**  
 ### **Comprehensive Insights into Coffee Shop Sales and Performance - Power BI Portfolio Project Demonstrating Advanced Data Analysis Skills**  
 
 ---
 
 ## **Overview**  
-This **Coffee Shop Sales Analysis Dashboard** is a meticulously designed Power BI project that showcases my expertise in data visualization, analytics, and actionable insights. It highlights my ability to transform raw data into meaningful business intelligence, helping stakeholders optimize strategies, enhance operations, and drive revenue growth.  
+This **Coffee Shop Sales Analysis** is a meticulously designed Power BI project that showcases my expertise in data visualization, analytics, and actionable insights. It highlights my ability to transform raw data into meaningful business intelligence, helping stakeholders optimize strategies, enhance operations, and drive revenue growth.  
 
 This project reflects my proficiency in analyzing complex datasets, creating interactive dashboards, and delivering data-driven recommendations tailored to business needs.
 
