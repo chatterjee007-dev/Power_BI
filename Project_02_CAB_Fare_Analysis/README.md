@@ -1,10 +1,10 @@
-# **CAB Fare Analysis Dashboard**  
+# **CAB Fare Analysis**  
 ### **Comprehensive Insights into CAB Fare Trends and Patterns**  
 
 ---
 
 ## **Overview**  
-The CAB Fare Analysis Dashboard is an interactive Power BI visualization providing comprehensive insights into cab fare trends and patterns. Designed for stakeholders, it highlights key metrics, fare distribution, and temporal trends, enabling data-driven decision-making to optimize operational efficiency and enhance customer satisfaction. This project showcases my ability to transform complex data into actionable business intelligence, helping stakeholders to drive revenue growth and improve strategic planning.
+The CAB Fare Analysis is an interactive Power BI visualization providing comprehensive insights into cab fare trends and patterns. Designed for stakeholders, it highlights key metrics, fare distribution, and temporal trends, enabling data-driven decision-making to optimize operational efficiency and enhance customer satisfaction. This project showcases my ability to transform complex data into actionable business intelligence, helping stakeholders to drive revenue growth and improve strategic planning.
 
 ---
 
