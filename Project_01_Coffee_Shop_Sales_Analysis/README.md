@@ -92,16 +92,16 @@ As a candidate seeking a data analyst role, this project reflects my proficiency
 ![Coffee Shop Sales Analysis Dashboard - Sales by Product](Images/Image_01.png)  
 *Figure: Sales by Product*  
 
-![Coffee Shop Sales Analysis Dashboard - Sales Trends Over Time](pic_2.png)  
+![Coffee Shop Sales Analysis Dashboard - Sales Trends Over Time](Images/Image_02.png)  
 *Figure: Sales Trends Over Time*  
 
-![Coffee Shop Sales Analysis Dashboard - Customer Demographics](pic_3.png)  
+![Coffee Shop Sales Analysis Dashboard - Customer Demographics](Images/Image_03.png)  
 *Figure: Customer Demographics*  
 
-![Coffee Shop Sales Analysis Dashboard - Geographical Sales Distribution](pic_4.png)  
+![Coffee Shop Sales Analysis Dashboard - Geographical Sales Distribution](Images/Image_04.png)  
 *Figure: Geographical Sales Distribution*  
 
-![Coffee Shop Sales Analysis Dashboard - Daily Sales Performance](pic_5.png)  
+![Coffee Shop Sales Analysis Dashboard - Daily Sales Performance](Images/Image_05.png)  
 *Figure: Daily Sales Performance*  
 
 ---
