@@ -10,8 +10,8 @@ The **CAB Fare Analysis** is an interactive Power BI visualization providing com
 
 ## **Dashboard Snapshot**  
 
-![CAB Fare Analysis Dashboard - Count of fare_amount by Day](Images/Image_01.png)  
-*Figure: Count of fare_amount by Day*  
+![CAB Fare Analysis](Images/Image_01.png)  
+*Figure: Geospatial Distribution of CAB Fare Amounts by Pickup and Dropoff Locations*  
 
 ![CAB Fare Analysis Dashboard - Time Series Slicer](Images/Image_02.png)  
 *Figure: Time Series Slicer*  
