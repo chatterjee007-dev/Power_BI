@@ -24,8 +24,8 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 ![Coffee Shop Sales Analysis](Images/Image_04.png)  
 *Figure: Sales Performance Against Targets by Sales Outlet*  
 
-![Coffee Shop Sales Analysis Dashboard - Daily Sales Performance](Images/Image_05.png)  
-*Figure: Daily Sales Performance*
+![Coffee Shop Sales Analysis](Images/Image_05.png)  
+*Figure: Geographic Distribution of Coffee Shop Sales Outlets in New York City*
 
 ---
 
