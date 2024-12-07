@@ -10,11 +10,8 @@ The **Analysis of Olympics** is an interactive Power BI visualization designed t
 
 ## **Dashboard Snapshot**  
 
-![Count of Athlete by Year](Images/Image_01.png)  
+![Count of Athlete by Year](Images/Dashboard_Image.png)  
 *Figure: Count of Athlete by Year*  
-
-![Top Performing Countries by Medal Count](Images/Image_02.png)  
-*Figure: Top Performing Countries by Medal Count*  
 
 ---
 
