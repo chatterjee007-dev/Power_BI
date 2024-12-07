@@ -36,7 +36,7 @@ The **Country Wise GDP & Population Analysis** is an interactive Power BI visual
 
 ---
 
-## **Dashboard Features**  
+## **Key Features**  
 
 1. **World GDP and Population**:  
    - A comprehensive view of the global economic landscape, showcasing GDP and population distribution by country. This visualization helps identify major economic players and demographic trends.
@@ -87,7 +87,14 @@ The **Country Wise GDP & Population Analysis** is an interactive Power BI visual
 
 ---
 
-## **Why This Dashboard Matters**  
-- **Interactive Visuals**: Provides clear, actionable insights through detailed visualizations.  
-- **Comprehensive Data Analysis**: Offers a thorough analysis of global economic, demographic, and digital trends.  
-- **Data-Driven Strategy**: Empowers stakeholders to make informed decisions to optimize policy-making, resource allocation, and strategic planning for sustainable development.
+## **Why This Project Matters**  
+- **Holistic View of Global Trends**:
+     - Integrates economic, demographic, and digital data to provide a comprehensive understanding of global trends and their interconnections.
+- **Informed Policy-Making**:
+     - Offers evidence-based insights that support the formulation of effective policies aimed at fostering economic growth, improving health outcomes, and bridging the digital divide.
+- **Targeted Resource Allocation**:
+     - Highlights regions that require focused interventions, enabling more efficient allocation of resources to areas with the greatest need.
+- **Promotes Digital Inclusion**:
+     - Identifies disparities in digital connectivity, guiding investments and policies that promote equitable access to digital technologies and services.
+- **Empowers Stakeholders**:
+     - Equips policymakers, business leaders, and researchers with the tools needed to make informed decisions that drive sustainable development and global progress.
