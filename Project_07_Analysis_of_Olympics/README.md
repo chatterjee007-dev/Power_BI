@@ -4,7 +4,7 @@
 ---
 
 ## **Overview**  
-The **Analysis of Olympics Dashboard** is an interactive Power BI visualization designed to provide comprehensive insights into the participation and performance of athletes in the Olympic Games. This project showcases my ability to transform complex sports data into actionable business intelligence, helping stakeholders understand trends, identify key performance metrics, and make informed decisions for future events.
+The **Analysis of Olympics Dashboard** is an interactive Power BI visualization designed to provide a deep dive into the participation and performance of athletes in the Olympic Games. This project highlights my proficiency in converting intricate sports data into meaningful insights, enabling stakeholders to grasp trends, pinpoint key performance metrics, and make well-informed decisions for future events.
 
 ---
 
