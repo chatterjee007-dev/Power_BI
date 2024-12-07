@@ -6,7 +6,7 @@
 ## **Overview**  
 This **Coffee Shop Sales Analysis Dashboard** is a meticulously designed Power BI project that showcases my expertise in data visualization, analytics, and actionable insights. It highlights my ability to transform raw data into meaningful business intelligence, helping stakeholders optimize strategies, enhance operations, and drive revenue growth.  
 
-As a candidate seeking a data analyst role, this project reflects my proficiency in analyzing complex datasets, creating interactive dashboards, and delivering data-driven recommendations tailored to business needs.
+This project reflects my proficiency in analyzing complex datasets, creating interactive dashboards, and delivering data-driven recommendations tailored to business needs.
 
 ---
 
