@@ -12,8 +12,8 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 
 ## **Dashboard Snapshot**  
 
-![Coffee Shop Sales Analysis Dashboard - Sales by Product](Images/Image_01.png)  
-*Figure: Sales by Product*  
+![Coffee Shop Sales Analysis](Images/Image_01.png)  
+*Figure: Sales and Popularity of Coffee Shop Products*  
 
 ![Coffee Shop Sales Analysis Dashboard - Sales Trends Over Time](Images/Image_02.png)  
 *Figure: Sales Trends Over Time*  
