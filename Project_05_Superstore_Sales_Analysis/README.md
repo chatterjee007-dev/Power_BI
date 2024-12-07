@@ -13,7 +13,7 @@ The **Superstore Sales Analysis** is an interactive Power BI visualization desig
 ![Sales and Profit Analysis by Segment, Region, City, and State](Images/Dashboard_Image_01.png)  
 *Figure: Sales and Profit Analysis by Segment, Region, City, and State*  
 
-![Sum of Sales by Sub-Category](Images/Dashboard_Images/Image_02.png)  
+![Sum of Sales by Sub-Category](Images/Dashboard_Image_02.png)  
 *Figure: Sum of Sales by Sub-Category*  
 
 ![Sum of Profit by Sub-Category](Images/Image_03.png)  
