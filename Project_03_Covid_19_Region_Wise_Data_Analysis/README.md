@@ -1,4 +1,4 @@
-# **COVID-19 Region Wise Data Analysis Dashboard**  
+# **COVID-19 Region Wise Data Analysis**  
 ### **Comprehensive Insights into COVID-19 Trends and Impact by Region**  
 
 ---
