@@ -4,9 +4,7 @@
 ---
 
 ## **Overview**  
-This **CAB Fare Analysis Dashboard** is a meticulously designed Power BI project that showcases my expertise in data visualization, analytics, and actionable insights. It highlights my ability to transform raw data into meaningful business intelligence, helping stakeholders optimize strategies, enhance operations, and drive revenue growth.
-
-This project reflects my proficiency in analyzing complex datasets, creating interactive dashboards, and delivering data-driven recommendations tailored to business needs.
+The CAB Fare Analysis Dashboard is an interactive Power BI visualization providing comprehensive insights into cab fare trends and patterns. Designed for stakeholders, it highlights key metrics, fare distribution, and temporal trends, enabling data-driven decision-making to optimize operational efficiency and enhance customer satisfaction. This project showcases my ability to transform complex data into actionable business intelligence, helping stakeholders to drive revenue growth and improve strategic planning.
 
 ---
 
