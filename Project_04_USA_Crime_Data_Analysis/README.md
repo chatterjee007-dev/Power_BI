@@ -1,10 +1,10 @@
-# **USA Crime Data Analysis Dashboard**  
-### **Comprehensive Insights into Crime Trends and Patterns Across the USA - Power BI Portfolio Project Demonstrating Advanced Data Analysis Skills**  
+# **USA Crime Data Analysis**  
+### **Comprehensive Insights into Crime Trends and Patterns Across the USA**  
 
 ---
 
 ## **Overview**  
-The **USA Crime Data Analysis Dashboard** is an interactive Power BI visualization providing comprehensive insights into crime trends and patterns across various regions in the USA. Designed for stakeholders, it highlights key metrics, crime distribution, and temporal trends, enabling **data-driven decision-making** to enhance public safety measures, optimize resource allocation, and develop effective crime prevention strategies. This project showcases my ability to transform complex crime data into actionable business intelligence, helping stakeholders drive informed decisions and improve public safety.
+The **USA Crime Data Analysis** is an interactive Power BI visualization providing comprehensive insights into crime trends and patterns across various regions in the USA. Designed for stakeholders, it highlights key metrics, crime distribution, and temporal trends, enabling **data-driven decision-making** to enhance public safety measures, optimize resource allocation, and develop effective crime prevention strategies. This project showcases my ability to transform complex crime data into actionable business intelligence, helping stakeholders drive informed decisions and improve public safety.
 
 ---
 
