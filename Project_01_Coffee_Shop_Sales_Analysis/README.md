@@ -40,7 +40,7 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 
 ---
 
-## **Dashboard Features**  
+## **Key Features**  
 
 1. **Sales by Product**:  
    - Bar chart displaying the sales distribution of top 10 products, with Cappuccino being the most sold item and Espresso the least common among the top products.
@@ -100,7 +100,7 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 
 ---
 
-## **Why This Dashboard Matters**  
+## **Why This Project Matters**  
 - **Interactive Visuals**: Provides clear, actionable insights through detailed visualizations.  
 - **Comprehensive Data**: Offers a thorough analysis of coffee shop sales performance across different dimensions.  
 - **Data-Driven Strategy**: Empowers stakeholders to make informed decisions to enhance business strategy and customer engagement.
