@@ -13,8 +13,8 @@ The **Country Wise GDP & Population Analysis** is an interactive Power BI visual
 ![Comprehensive Economic and Population Analysis with Demographic Breakdown](Images/Dashboard_Image_01.png)  
 *Figure: Comprehensive Economic and Population Analysis with Demographic Breakdown*  
 
-![Global Health Indicators](Images/Dashboard_Image_02.png)  
-*Figure: Global Health Indicators*  
+![Global Socio-Economic and Health Trends Analysis Dashboard](Images/Dashboard_Image_02.png)  
+*Figure: Global Socio-Economic and Health Trends Analysis Dashboard*  
 
 ![Life Expectancy and Mortality Rate by Subregion](Images/Image_03.png)  
 *Figure: Life Expectancy and Mortality Rate by Subregion*
