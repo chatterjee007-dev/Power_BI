@@ -103,7 +103,11 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 ## **Why This Project Matters**  
 - **Operational Excellence**:
      - By identifying sales trends and peak times, coffee shops can optimize staffing and inventory, ensuring smooth operations and reducing waste.
-- **Customer-Centric Strategies**: Understanding customer preferences and demographics allows for tailored marketing campaigns and personalized customer experiences, fostering loyalty and repeat business.
-- **Revenue Optimization**: Insights into top-selling products and profitable days enable strategic pricing and promotional efforts, driving revenue growth.
-- **Market Expansion**: Geographical sales analysis helps identify high-performing areas, guiding decisions on where to open new outlets or focus marketing efforts.
-- **Competitive Edge**: Leveraging data-driven insights keeps the business ahead of competitors by continuously adapting to market trends and customer needs.
+- **Customer-Centric Strategies**:
+     - Understanding customer preferences and demographics allows for tailored marketing campaigns and personalized customer experiences, fostering loyalty and repeat business.
+- **Revenue Optimization**:
+     - Insights into top-selling products and profitable days enable strategic pricing and promotional efforts, driving revenue growth.
+- **Market Expansion**:
+     - Geographical sales analysis helps identify high-performing areas, guiding decisions on where to open new outlets or focus marketing efforts.
+- **Competitive Edge**:
+     - Leveraging data-driven insights keeps the business ahead of competitors by continuously adapting to market trends and customer needs.
