@@ -1,5 +1,5 @@
 # **Analysis of Olympics Dashboard**  
-### **Comprehensive Insights into Olympic Games Participation and Performance**  
+### **Comprehensive Insights into Olympic Games Participation and Performance - Power BI Portfolio Project Demonstrating Advanced Data Analysis Skills**  
 
 ---
 
@@ -11,52 +11,83 @@ The **Analysis of Olympics Dashboard** is an interactive Power BI visualization 
 ## **Dashboard Snapshot**  
 
 ![Count of Athlete by Year](Dashboard_Image.png)  
-*Figure: Dashboard Image*  
+*Figure: Count of Athlete by Year*  
 
 ---
 
 ## **Key Metrics**  
-- **Athlete Participation Over the Years**:  
-   - Line graph displaying the count of athletes participating in the Olympic Games over different years, specifically 2000, 2002, 2006, 2010, and 2012, highlighting fluctuations and trends in athlete participation.
+- **Total Medals and Athlete Count**:  
+   - Displaying the total number of medals (6758) and the total count of athletes (5258).
 
-- **Medal Count by Country**:  
-   - Bar chart showing the top-performing countries based on the total medal count, providing insights into the dominance of certain nations in the Olympic Games.
+- **Medals by Sport**:  
+   - Bar chart showing the sum of total medals by sport, with Swimming leading with 730 medals, followed by Athletics with 563 medals.
+
+- **Medals by Age**:  
+   - Bar chart displaying the sum of total medals by age. The age group 22 has the highest medal count with 807 medals, followed by age 24 with 763 medals.
+
+- **Medal Distribution**:  
+   - Donut chart showing the distribution of gold, silver, and bronze medals. Each type of medal has approximately one-third of the total medals, with gold medals at 33.92%, silver medals at 33.32%, and bronze medals at 32.76%.
 
 ---
 
 ## **Dashboard Features**  
 
-1. **Count of Athlete by Year**:  
-   - A line graph titled "Count of Athlete by Year," illustrating the number of athletes over the years 2000, 2002, 2006, 2010, and 2012. The graph shows significant fluctuations, with a peak of 1,838 athletes in 2000 and 1,771 athletes in 2012, and a notable drop to 407 athletes in 2002.
+1. **Total Medals and Athlete Count**:  
+   - The top left corner displays the total number of medals (6758) and the total count of athletes (5258), providing a quick overview of the overall achievements.
 
-2. **Top Performing Countries by Medal Count**:  
-   - A bar chart displaying the total medal count of the top-performing countries. This visualization helps identify the countries with the highest achievements in the Olympic Games, highlighting their dominance and success in various sports.
+2. **Medals by Sport**:  
+   - A bar chart showing the sum of total medals by sport, highlighting the most successful sports in the Olympic Games. Swimming and Athletics are the top two sports, indicating high competition and participation levels.
+
+3. **Medals by Age**:  
+   - A bar chart displaying the sum of total medals by age, providing insights into the age groups that have achieved the most success in the Olympic Games. The age groups 22 and 24 stand out with the highest medal counts.
+
+4. **Medal Distribution**:  
+   - A donut chart showing the distribution of gold, silver, and bronze medals, offering a visual representation of the overall medal distribution among the top performers.
+
+5. **Country List and Age Filter**:  
+   - A list of countries provided on the right side allows for filtering or selecting data based on the country. An age filter slider ranges from 15 to 28 years, enabling users to analyze medal counts by specific age groups.
 
 ---
 
 ## **Insights**  
 
-1. **Athlete Participation Trends**:  
-   - The line graph reveals significant fluctuations in the count of athletes participating in the Olympic Games over the years. The data shows a peak in 2000, a significant drop in 2002, followed by a gradual increase in subsequent years, reaching another peak in 2012.
+1. **Sport Dominance**:  
+   - Swimming and Athletics are the most dominant sports in terms of total medals won, indicating a high level of competition and participation in these sports.
 
-2. **Top Medal-Winning Countries**:  
-   - The bar chart highlights the top-performing countries in terms of medal count, showcasing their consistent success and dominance in the Olympic Games. This information is valuable for understanding which nations have strong Olympic programs and can inform future training and investment strategies.
+2. **Age Performance**:  
+   - Athletes aged 22 and 24 are the most successful in terms of medal counts, suggesting these ages might be the peak performance years for athletes.
+
+3. **Balanced Medal Distribution**:  
+   - The distribution of gold, silver, and bronze medals is relatively balanced, indicating a fair level of competition across different events.
+
+4. **Overall Performance**:  
+   - The total medals (6758) and athlete count (5258) provide an overview of the scale of participation and success in the Olympic Games.
+  
+5. **Athlete Participation**:
+   - The data reveals significant fluctuations in athlete participation over the years. There is a noticeable peak in 2000 with 1838 athletes, followed by a sharp decline in 2002 to 407 athletes. Participation gradually increases in the following years, with another peak in 2012 at 1771 athletes. Understanding the factors contributing to these variations can provide valuable insights for planning and enhancing future participation.
 
 ---
 
 ## **Strategic Recommendations**  
 
-1. **Enhance Participation**:  
-   - Analyze the factors contributing to the fluctuations in athlete participation and implement strategies to encourage consistent and increased participation in future Olympic Games.
+1. **Focus on Peak Ages**:  
+   - Training programs and resources could be optimized for athletes in their early twenties, as this age group shows the highest medal counts.
 
-2. **Support Top-Performing Nations**:  
-   - Provide targeted support and resources to top-performing countries to help maintain and improve their success in the Olympic Games. This could include investment in training facilities, coaching staff, and athlete development programs.
+2. **Investment in Dominant Sports**:  
+   - Additional investment and support could be directed towards Swimming and Athletics to maintain and enhance performance in these high-medal sports.
 
-3. **Identify Growth Opportunities**:  
-   - Use the insights from the medal count analysis to identify countries with potential for growth in the Olympic Games. Implement initiatives to support the development of their sports programs and enhance their competitiveness.
+3. **Country-Specific Analysis**:  
+   - Further analysis could be conducted on a country-by-country basis to identify strengths and weaknesses in specific sports and age groups.
 
-4. **Data-Driven Decision Making**:  
-   - Utilize the insights from the dashboard to inform data-driven decision-making for future Olympic Games, including planning, resource allocation, and performance enhancement strategies.
+4. **Enhance Athlete Support**:  
+   - Provide enhanced support for athletes, including mental health resources, career development programs, and recognition of their achievements. This can help create a positive environment that encourages more athletes to participate and perform at their best.
+
+5. **Promote Consistent Participation**:  
+   - Implement strategies to maintain and promote consistent athlete participation in future Olympic Games. This could include initiatives to encourage greater involvement from smaller nations, grassroots development programs, and international collaborations.
+
+---
+
+This image shows a comprehensive dashboard of athlete and medal statistics, providing valuable insights into sports performance and demographics. It is relevant for sports analysts, coaches, and organizations looking to optimize training and support for athletes.
 
 ---
 
