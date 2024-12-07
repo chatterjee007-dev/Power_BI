@@ -1,17 +1,17 @@
-# **Analysis of Olympics**  
+# **Analysis of Olympics Dashboard**  
 ### **Comprehensive Insights into Olympic Games Participation and Performance**  
 
 ---
 
 ## **Overview**  
-The **Analysis of Olympics** is an interactive Power BI visualization designed to provide comprehensive insights into the participation and performance of athletes in the Olympic Games. This project showcases my ability to transform complex sports data into actionable business intelligence, helping stakeholders understand trends, identify key performance metrics, and make informed decisions for future events.
+The **Analysis of Olympics Dashboard** is an interactive Power BI visualization designed to provide comprehensive insights into the participation and performance of athletes in the Olympic Games. This project showcases my ability to transform complex sports data into actionable business intelligence, helping stakeholders understand trends, identify key performance metrics, and make informed decisions for future events.
 
 ---
 
 ## **Dashboard Snapshot**  
 
 ![Count of Athlete by Year](Dashboard_Image.png)  
-*Figure: Count of Athlete by Year*  
+*Figure: Dashboard Image*  
 
 ---
 
