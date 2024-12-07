@@ -21,8 +21,8 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 ![Coffee Shop Sales Analysis](Images/Image_03.png)  
 *Figure: Sales Performance Comparison by Product Category and Store City*  
 
-![Coffee Shop Sales Analysis Dashboard - Geographical Sales Distribution](Images/Image_04.png)  
-*Figure: Geographical Sales Distribution*  
+![Coffee Shop Sales Analysis](Images/Image_04.png)  
+*Figure: Sales Performance Against Targets by Sales Outlet*  
 
 ![Coffee Shop Sales Analysis Dashboard - Daily Sales Performance](Images/Image_05.png)  
 *Figure: Daily Sales Performance*
