@@ -87,10 +87,6 @@ The **Analysis of Olympics Dashboard** is an interactive Power BI visualization 
 
 ---
 
-This image shows a comprehensive dashboard of athlete and medal statistics, providing valuable insights into sports performance and demographics. It is relevant for sports analysts, coaches, and organizations looking to optimize training and support for athletes.
-
----
-
 ## **Why This Dashboard Matters**  
 - **Interactive Visuals**: Provides clear, actionable insights through detailed visualizations.  
 - **Comprehensive Data Analysis**: Offers a thorough analysis of athlete participation and performance in the Olympic Games.  
