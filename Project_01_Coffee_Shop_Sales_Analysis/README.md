@@ -18,8 +18,8 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 ![Coffee Shop Sales Analysis](Images/Image_02.png)  
 *Figure: Coffee Shop Sales Goals Achievement Dashboard*  
 
-![Coffee Shop Sales Analysis Dashboard - Customer Demographics](Images/Image_03.png)  
-*Figure: Customer Demographics*  
+![Coffee Shop Sales Analysis](Images/Image_03.png)  
+*Figure: Sales Performance Comparison by Product Category and Store City*  
 
 ![Coffee Shop Sales Analysis Dashboard - Geographical Sales Distribution](Images/Image_04.png)  
 *Figure: Geographical Sales Distribution*  
