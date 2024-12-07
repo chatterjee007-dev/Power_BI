@@ -16,8 +16,8 @@ The **Country Wise GDP & Population Analysis** is an interactive Power BI visual
 ![Global Socio-Economic and Health Trends Analysis Dashboard](Images/Dashboard_Image_02.png)  
 *Figure: Global Socio-Economic and Health Trends Analysis Dashboard*  
 
-![Life Expectancy and Mortality Rate by Subregion](Images/Image_03.png)  
-*Figure: Life Expectancy and Mortality Rate by Subregion*
+![Health Metrics by Subregion: Life Expectancy and Under-5 Mortality Rate](Images/Image_03.png)  
+*Figure: Health Metrics by Subregion: Life Expectancy and Under-5 Mortality Rate*
 
 ![Digital Connectivity: Internet Users and Mobile Subscribers](Images/Image_04.png)  
 *Figure: Digital Connectivity: Internet Users and Mobile Subscribers*
