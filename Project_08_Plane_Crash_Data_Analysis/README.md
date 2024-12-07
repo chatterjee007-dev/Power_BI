@@ -15,24 +15,44 @@ The **Plane Crash Data Analysis** is an interactive Power BI visualization desig
 
 ---
 
-## **Key Metrics**  
-- **Total Fatalities**:  
-   - Displaying the total number of fatalities across various types of aircraft, years, phases of flight, and countries.
+## **Key Metrics**
 
-- **Fatalities by Aircraft Type**:  
-   - Treemap showing the sum of fatalities by different aircraft types, highlighting the most hazardous models.
+- **Total Fatalities**:
+  - Displaying the total number of fatalities across various types of aircraft, years, phases of flight, and countries.
 
-- **Fatalities by Year**:  
-   - Line chart illustrating the total fatalities over different years, indicating trends and significant events.
+- **Fatalities by Aircraft Type**:
+  - Treemap showing the sum of fatalities by different aircraft types, highlighting the most hazardous models.
 
-- **Fatalities by Phase of Flight**:  
-   - Bar chart detailing the sum of fatalities during various phases of flight, such as takeoff, cruise, and landing.
+- **Fatalities by Year**:
+  - Line chart illustrating the total fatalities over different years, indicating trends and significant events.
 
-- **Fatalities by Country**:  
-   - Map visualization showing the number of plane crash fatalities by country, providing a geographic perspective on incidents.
+- **Fatalities by Phase of Flight**:
+  - Bar chart detailing the sum of fatalities during various phases of flight, such as takeoff, cruise, and landing.
 
-- **Incidents by Month**:  
-   - Line chart showing the number of incidents over time by month, identifying seasonal patterns and trends.
+- **Fatalities by Country**:
+  - Map visualization showing the number of plane crash fatalities by country, providing a geographic perspective on incidents.
+
+- **Incidents by Month**:
+  - Line chart showing the number of incidents over time by month, identifying seasonal patterns and trends.
+
+---
+
+## **Key Features**
+
+1. **Sum of Fatalities by Type**:
+  - A treemap visualization categorizing various aircraft types by the total number of fatalities. The Douglas DC-3 has the highest number of fatalities at 4.79K, followed by Antonov AN-26 with 1.08K, and Douglas DC-6B with 1.06K.
+
+2. **Total Fatalities by Year**:
+  - A line chart displaying the total number of fatalities over different years, highlighting peaks and trends. Notable years with high fatalities can be investigated further to understand the underlying causes.
+
+3. **Sum of Fatalities by Phase of Flight**:
+  - A bar chart detailing the number of fatalities during different phases of flight, such as takeoff, cruise, and landing. This helps identify the most dangerous phases of flight.
+
+4. **Plane Crash Fatalities by Country**:
+  - A map visualization showing the number of plane crash fatalities by country. Countries with higher fatalities can be targeted for safety improvements and stricter regulations.
+
+5. **Incidents Over Time by Month**:
+  - A line chart depicting the number of incidents over time by month. This helps identify seasonal patterns and trends, which can inform preventive measures during high-risk periods.
 
 ---
 
@@ -77,11 +97,5 @@ The **Plane Crash Data Analysis** is an interactive Power BI visualization desig
 
 ---
 
-## **Why This Dashboard Matters**  
-- **Interactive Visuals**: Provides clear, actionable insights through detailed visualizations.  
-- **Comprehensive Data Analysis**: Offers a thorough analysis of global economic and demographic trends.  
-- **Data-Driven Strategy**: Empowers stakeholders to make informed decisions to optimize policy-making, resource allocation, and strategic planning for sustainable development.
----
-
-By thoroughly analyzing the dashboard and implementing these recommendations, stakeholders can gain valuable insights into aviation safety and take proactive measures to reduce the risk of plane crashes and enhance overall flight safety.
+By thoroughly analyzing the project and implementing these recommendations, stakeholders can gain valuable insights into aviation safety and take proactive measures to reduce the risk of plane crashes and enhance overall flight safety.
 
