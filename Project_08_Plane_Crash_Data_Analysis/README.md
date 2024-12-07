@@ -10,9 +10,6 @@ The **Plane Crash Data Analysis** is an interactive Power BI visualization desig
 
 ## **Dashboard Snapshot**  
 
-![Sum of Fatalities by Type](Images/Image_01.png)  
-*Figure: Sum of Fatalities by Type*  
-
 ![Dashboard Image](Dashboard_Image.png)  
 *Figure: Dashboard_Image* 
 
