@@ -4,7 +4,7 @@
 ---
 
 ## **Overview**  
-The **COVID-19 Region Wise Data Analysis Dashboard** is an interactive Power BI visualization providing in-depth insights into the spread and impact of COVID-19 across different regions. Designed for stakeholders, it highlights key metrics, death and case distribution, and temporal trends, enabling **data-driven decision-making** to optimize response strategies, enhance public health measures, and save lives. This project showcases my ability to transform complex pandemic data into actionable business intelligence, helping stakeholders drive informed decisions and improve strategic planning.
+The **COVID-19 Region Wise Data Analysis** is an interactive Power BI visualization providing in-depth insights into the spread and impact of COVID-19 across different regions. Designed for stakeholders, it highlights key metrics, death and case distribution, and temporal trends, enabling **data-driven decision-making** to optimize response strategies, enhance public health measures, and save lives. This project showcases my ability to transform complex pandemic data into actionable business intelligence, helping stakeholders drive informed decisions and improve strategic planning.
 
 ---
 
