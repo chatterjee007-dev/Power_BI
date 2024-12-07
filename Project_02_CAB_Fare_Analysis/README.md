@@ -1,5 +1,5 @@
 # **CAB Fare Analysis Dashboard**  
-### **Comprehensive Insights into CAB Fare Trends and Patterns - Power BI Portfolio Project Demonstrating Advanced Data Analysis Skills**  
+### **Comprehensive Insights into CAB Fare Trends and Patterns**  
 
 ---
 
