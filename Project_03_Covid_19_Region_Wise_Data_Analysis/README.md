@@ -1,5 +1,5 @@
 # **COVID-19 Region Wise Data Analysis Dashboard**  
-### **Comprehensive Insights into COVID-19 Trends and Impact by Region - Power BI Portfolio Project Demonstrating Advanced Data Analysis Skills**  
+### **Comprehensive Insights into COVID-19 Trends and Impact by Region**  
 
 ---
 
