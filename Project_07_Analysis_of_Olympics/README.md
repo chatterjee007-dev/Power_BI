@@ -1,5 +1,5 @@
 # **Analysis of Olympics Dashboard**  
-### **Comprehensive Insights into Olympic Games Participation and Performance - Power BI Portfolio Project Demonstrating Advanced Data Analysis Skills**  
+### **Comprehensive Insights into Olympic Games Participation and Performance**  
 
 ---
 
