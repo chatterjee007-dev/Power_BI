@@ -30,7 +30,7 @@ The **Analysis of Olympics Dashboard** is an interactive Power BI visualization 
 
 ---
 
-## **Dashboard Features**  
+## **Key Features**  
 
 1. **Total Medals and Athlete Count**:  
    - The top left corner displays the total number of medals (6758) and the total count of athletes (5258), providing a quick overview of the overall achievements.
@@ -87,7 +87,14 @@ The **Analysis of Olympics Dashboard** is an interactive Power BI visualization 
 
 ---
 
-## **Why This Dashboard Matters**  
-- **Interactive Visuals**: Provides clear, actionable insights through detailed visualizations.  
-- **Comprehensive Data Analysis**: Offers a thorough analysis of athlete participation and performance in the Olympic Games.  
-- **Data-Driven Strategy**: Empowers stakeholders to make informed decisions to enhance participation, support top-performing nations, and identify growth opportunities in the Olympic Games.
+## **Why This Project Matters**  
+- **Holistic Athlete Analysis**:
+     - Provides a comprehensive view of athlete participation and performance, offering insights into trends and patterns that are critical for optimizing training and development programs.
+- **Strategic Investment**:
+     - Identifies key areas for investment, such as specific sports and age groups, to maximize the potential for winning medals and enhancing overall performance.
+- **Global Competitiveness**:
+     - Enhances the ability to analyze and compare performance across countries, helping to identify strengths and weaknesses and foster international competitiveness.
+- **Data-Driven Decision Making**:
+     - Supports data-driven decisions that can improve planning, resource allocation, and policy-making for future Olympic Games, ensuring the best outcomes for athletes and nations.
+- **Promotes Inclusive Participation**:
+     - Highlights trends in athlete participation, encouraging initiatives that promote inclusivity and broader participation across different countries and demographics.
