@@ -1,5 +1,5 @@
 # **Superstore Sales Analysis**  
-### **Comprehensive Insights into Sales Performance and Profitability Across Categories and Cities - Power BI Portfolio Project Demonstrating Advanced Data Analysis Skills**  
+### **Comprehensive Insights into Sales Performance and Profitability Across Categories and Cities**  
 
 ---
 
