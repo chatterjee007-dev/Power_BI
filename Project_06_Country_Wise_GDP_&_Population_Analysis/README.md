@@ -10,8 +10,8 @@ The **Country Wise GDP & Population Analysis** is an interactive Power BI visual
 
 ## **Dashboard Snapshot**  
 
-![World GDP and Population](Images/Dashboard_Image_01.png)  
-*Figure: World GDP and Population*  
+![Comprehensive Economic and Population Analysis with Demographic Breakdown](Images/Dashboard_Image_01.png)  
+*Figure: Comprehensive Economic and Population Analysis with Demographic Breakdown*  
 
 ![Global Health Indicators](Images/Dashboard_Image_02.png)  
 *Figure: Global Health Indicators*  
