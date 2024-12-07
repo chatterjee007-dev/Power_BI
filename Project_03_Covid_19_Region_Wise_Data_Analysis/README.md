@@ -13,8 +13,8 @@ The **COVID-19 Region Wise Data Analysis** is an interactive Power BI visualizat
 ![COVID-19 Region Wise Data Analysis](Images/Image_01.png)  
 *Figure: COVID-19 Confirmed Cases by Country/Region*  
 
-![COVID-19 Region Wise Data Analysis Dashboard - Time Series Slicer](Images/Image_02.png)  
-*Figure: Time Series Slicer*  
+![COVID-19 Region Wise Data Analysis](Images/Image_02.png)  
+*Figure: COVID-19 Monthly Trends in Confirmed Cases and Deaths in India*  
 
 ![COVID-19 Region Wise Data Analysis Dashboard - Confirmed Cases by Country/Region](Images/Image_03.png)  
 *Figure: Confirmed Cases by Country/Region*  
