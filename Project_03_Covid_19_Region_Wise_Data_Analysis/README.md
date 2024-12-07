@@ -33,7 +33,7 @@ The **COVID-19 Region Wise Data Analysis** is an interactive Power BI visualizat
 
 ---
 
-## **Dashboard Features**  
+## **Key Features**  
 
 1. **Sum of Deaths by Province/State**:  
    - Bar chart displaying the total number of deaths across various provinces and states, with Hubei showing the highest mortality.
