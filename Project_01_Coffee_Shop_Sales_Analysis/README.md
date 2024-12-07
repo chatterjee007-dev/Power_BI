@@ -15,8 +15,8 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 ![Coffee Shop Sales Analysis](Images/Image_01.png)  
 *Figure: Sales and Popularity of Coffee Shop Products*  
 
-![Coffee Shop Sales Analysis Dashboard - Sales Trends Over Time](Images/Image_02.png)  
-*Figure: Sales Trends Over Time*  
+![Coffee Shop Sales Analysis](Images/Image_02.png)  
+*Figure: Coffee Shop Sales Goals Achievement Dashboard*  
 
 ![Coffee Shop Sales Analysis Dashboard - Customer Demographics](Images/Image_03.png)  
 *Figure: Customer Demographics*  
