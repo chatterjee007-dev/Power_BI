@@ -19,8 +19,8 @@ The **COVID-19 Region Wise Data Analysis** is an interactive Power BI visualizat
 ![COVID-19 Region Wise Data Analysis](Images/Image_03.png)  
 *Figure: Visualization of Global COVID-19 Confirmed Cases and Deaths*  
 
-![COVID-19 Region Wise Data Analysis Dashboard - Deaths Over Time](Images/Image_04.png)  
-*Figure: Deaths Over Time*
+![COVID-19 Region Wise Data Analysis](Images/Image_04.png)  
+*Figure: Sum of Deaths by Province/State with Monthly Filtering*
 
 ---
 
