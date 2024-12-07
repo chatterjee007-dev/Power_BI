@@ -10,16 +10,16 @@ The **USA Crime Data Analysis Dashboard** is an interactive Power BI visualizati
 
 ## **Dashboard Snapshot**  
 
-![USA Crime Data Analysis Dashboard - Population and Total Crime](Images/Image_01.png)  
+![USA Crime Data Analysis](Images/Image_01.png)  
 *Figure: Distribution of Violent Crimes by Type and Agency Jurisdiction*  
 
-![USA Crime Data Analysis Dashboard - Crime Trends Over Time](Images/Image_02.png)  
+![USA Crime Data Analysis](Images/Image_02.png)  
 *Figure: Trends in Crime Rates and Population Growth by Year*  
 
-![USA Crime Data Analysis Dashboard - Crime Distribution by Type](Images/Image_03.png)  
+![USA Crime Data Analysis](Images/Image_03.png)  
 *Figure: Geospatial Distribution and Temporal Analysis of Crime Rates in the United States (1975-2010)*  
 
-![USA Crime Data Analysis Dashboard - Geographical Distribution of Crimes](Images/Dashboard_Image.png)  
+![USA Crime Data Analysis](Images/Dashboard_Image.png)  
 *Figure: USA Crime Statistics and Population Dynamics Dashboard - Unveiling Trends and Insights Over Four Decades*  
 
 ---
