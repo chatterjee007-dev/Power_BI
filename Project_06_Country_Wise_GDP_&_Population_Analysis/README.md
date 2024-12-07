@@ -19,8 +19,8 @@ The **Country Wise GDP & Population Analysis** is an interactive Power BI visual
 ![Health Metrics by Subregion: Life Expectancy and Under-5 Mortality Rate](Images/Image_03.png)  
 *Figure: Health Metrics by Subregion: Life Expectancy and Under-5 Mortality Rate*
 
-![Digital Connectivity: Internet Users and Mobile Subscribers](Images/Image_04.png)  
-*Figure: Digital Connectivity: Internet Users and Mobile Subscribers*
+![Digital Connectivity Analysis: Internet Users and Mobile Phone Subscribers by Country](Images/Image_04.png)  
+*Figure: Digital Connectivity Analysis: Internet Users and Mobile Phone Subscribers by Country*
 
 ---
 
