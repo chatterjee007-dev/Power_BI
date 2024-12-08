@@ -11,7 +11,7 @@ The **Air and Water Quality Analysis** is an interactive Power BI visualization 
 ## **Dashboard Snapshot**  
 
 ![Dashboard Image](Images/Dashboard_Image.png)  
-*Figure: Average of 'AirQuality' and Average of 'WaterPollution' by City*  
+*Figure: Global Air Quality and Water Pollution Overview*  
 
 ![Stacked Bar Chart Image](Images/Stacked_Bar_Chart_Image.png)  
 *Figure: Distribution of Air and Water Quality Metrics by Country*
