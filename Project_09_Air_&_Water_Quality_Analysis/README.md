@@ -95,9 +95,13 @@ The **Air and Water Quality Analysis** is an interactive Power BI visualization 
 ---
 
 ## **Why This Project Matters**  
-- **Enhanced Environmental Policies**: Provides critical insights that support the development of more effective environmental policies and measures, ultimately improving air and water quality.
-- **Data-Driven Decision Making**: Empowers policymakers with robust data analysis to implement targeted interventions where they are needed most.
-- **Global Impact**: Facilitates international cooperation and knowledge sharing, promoting global environmental standards and practices.
-- **Public Health Improvement**: Highlights key environmental health indicators, informing strategies to protect and enhance public health.
-- **Operational Efficiency**: Informs continuous improvements in environmental monitoring and management practices, enhancing overall sustainability.
-
+- **Enhanced Environmental Policies**:
+    - Provides critical insights that support the development of more effective environmental policies and measures, ultimately improving air and water quality.
+- **Data-Driven Decision Making**:
+    - Empowers policymakers with robust data analysis to implement targeted interventions where they are needed most.
+- **Global Impact**:
+    - Facilitates international cooperation and knowledge sharing, promoting global environmental standards and practices.
+- **Public Health Improvement**:
+    - Highlights key environmental health indicators, informing strategies to protect and enhance public health.
+- **Operational Efficiency**:
+    - Informs continuous improvements in environmental monitoring and management practices, enhancing overall sustainability.
