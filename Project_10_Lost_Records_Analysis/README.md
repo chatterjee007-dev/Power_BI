@@ -11,7 +11,7 @@ The **Lost Records Analysis** is an interactive Power BI visualization providing
 ## **Dashboard Snapshot**  
 
 ![Dashboard Image](Images/Dashboard_Image_01.png)  
-*Figure: Sum of Records Lost by Entity*  
+*Figure: Data Breach Records Lost by Sector and Method of Leak*  
 
 ![Dashboard Image](Images/Dashboard_Image_02.png)  
 *Figure: Sum of Records Lost by Source Name*  
