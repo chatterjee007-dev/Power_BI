@@ -88,13 +88,27 @@ The **Analysis of Olympics Dashboard** is an interactive Power BI visualization 
 ---
 
 ## **Why This Project Matters**  
-- **Holistic Athlete Analysis**:
-     - Provides a comprehensive view of athlete participation and performance, offering insights into trends and patterns that are critical for optimizing training and development programs.
-- **Strategic Investment**:
-     - Identifies key areas for investment, such as specific sports and age groups, to maximize the potential for winning medals and enhancing overall performance.
-- **Global Competitiveness**:
-     - Enhances the ability to analyze and compare performance across countries, helping to identify strengths and weaknesses and foster international competitiveness.
-- **Data-Driven Decision Making**:
-     - Supports data-driven decisions that can improve planning, resource allocation, and policy-making for future Olympic Games, ensuring the best outcomes for athletes and nations.
-- **Promotes Inclusive Participation**:
-     - Highlights trends in athlete participation, encouraging initiatives that promote inclusivity and broader participation across different countries and demographics.
+1. **Holistic Athlete Analysis**:  
+      - Provides a comprehensive view of athlete participation and performance, offering insights into trends and patterns that are critical for optimizing training and development programs.
+
+2. **Strategic Investment**:  
+      - Identifies key areas for investment, such as specific sports and age groups, to maximize the potential for winning medals and enhancing overall performance.
+
+3. **Global Competitiveness**:  
+      - Enhances the ability to analyze and compare performance across countries, helping to identify strengths and weaknesses and foster international competitiveness.
+
+4. **Data-Driven Decision Making**:  
+      - Supports data-driven decisions that can improve planning, resource allocation, and policy-making for future Olympic Games, ensuring the best outcomes for athletes and nations.
+
+5. **Promotes Inclusive Participation**:  
+      - Highlights trends in athlete participation, encouraging initiatives that promote inclusivity and broader participation across different countries and demographics.
+
+6. **Performance Peak Identification**:  
+      - Identifies peak performance ages and sports, allowing for focused training and support to maximize athlete potential and medal outcomes.
+
+7. **Historical Performance Insight**:  
+      - Provides historical insights into participation and performance trends over the years, guiding future strategies for athletic development and competition.
+
+---
+
+By integrating these strategic insights, the **Analysis of Olympics Dashboard** project enhances athlete performance, drives strategic investments, and fosters a competitive and inclusive environment in the Olympic Games.
