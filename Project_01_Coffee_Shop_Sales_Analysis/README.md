@@ -102,28 +102,28 @@ This project reflects my proficiency in analyzing complex datasets, creating int
 
 ## **Why This Project Matters**  
 1. **Operational Excellence**:  
-   By identifying sales trends and peak times, coffee shops can optimize staffing and inventory, ensuring smooth operations and reducing waste.
+      - By identifying sales trends and peak times, coffee shops can optimize staffing and inventory, ensuring smooth operations and reducing waste.
 
 2. **Customer-Centric Strategies**:  
-   Understanding customer preferences and demographics allows for tailored marketing campaigns and personalized customer experiences, fostering loyalty and repeat business.
+      - Understanding customer preferences and demographics allows for tailored marketing campaigns and personalized customer experiences, fostering loyalty and repeat business.
 
 3. **Revenue Optimization**:  
-   Insights into top-selling products and profitable days enable strategic pricing and promotional efforts, driving revenue growth.
+      - Insights into top-selling products and profitable days enable strategic pricing and promotional efforts, driving revenue growth.
 
 4. **Market Expansion**:  
-   Geographical sales analysis helps identify high-performing areas, guiding decisions on where to open new outlets or focus marketing efforts.
+      - Geographical sales analysis helps identify high-performing areas, guiding decisions on where to open new outlets or focus marketing efforts.
 
 5. **Enhanced Customer Experience**:  
-   Continuous analysis of customer feedback helps improve product offerings and service quality, ensuring a delightful customer experience.
+      - Continuous analysis of customer feedback helps improve product offerings and service quality, ensuring a delightful customer experience.
 
 6. **Data-Driven Decision Making**:  
-   Empowers stakeholders with actionable insights to make informed decisions, driving business growth and competitive advantage.
+      - Empowers stakeholders with actionable insights to make informed decisions, driving business growth and competitive advantage.
 
 7. **Strategic Marketing**:  
-   Detailed demographic analysis supports the creation of targeted marketing campaigns that resonate with the primary customer base, boosting engagement and sales.
+      - Detailed demographic analysis supports the creation of targeted marketing campaigns that resonate with the primary customer base, boosting engagement and sales.
 
 8. **Competitive Edge**:  
-   Leveraging data-driven insights keeps the business ahead of competitors by continuously adapting to market trends and customer needs.
+      - Leveraging data-driven insights keeps the business ahead of competitors by continuously adapting to market trends and customer needs.
 
 ---
 
