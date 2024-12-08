@@ -96,25 +96,25 @@ The **USA Crime Data Analysis** is an interactive Power BI visualization providi
 
 ## **Why This Project Matters**  
 1. **Holistic Crime Understanding**:  
-   Offers a comprehensive analysis of crime data over four decades, empowering stakeholders with a deep understanding of both historical and current crime trends.
+      - Offers a comprehensive analysis of crime data over four decades, empowering stakeholders with a deep understanding of both historical and current crime trends.
 
 2. **Precision in Resource Allocation**:  
-   Utilizes geospatial and temporal insights to help law enforcement agencies allocate resources more effectively, targeting high-crime areas and periods with precision.
+      - Utilizes geospatial and temporal insights to help law enforcement agencies allocate resources more effectively, targeting high-crime areas and periods with precision.
 
 3. **Proactive Crime Prevention**:  
-   Identifies patterns and peaks in crime rates, enabling the development of proactive measures and strategies to reduce the likelihood of future incidents.
+      - Identifies patterns and peaks in crime rates, enabling the development of proactive measures and strategies to reduce the likelihood of future incidents.
 
 4. **Community Safety Enhancement**:  
-   Supports the implementation of targeted community programs and initiatives, fostering safer environments and enhancing public trust in law enforcement.
+      - Supports the implementation of targeted community programs and initiatives, fostering safer environments and enhancing public trust in law enforcement.
 
 5. **Policy Formulation**:  
-   Provides policymakers with evidence-based insights, guiding the creation of more effective laws and public safety policies tailored to the unique needs of different regions.
+      - Provides policymakers with evidence-based insights, guiding the creation of more effective laws and public safety policies tailored to the unique needs of different regions.
 
 6. **Long-Term Trend Analysis**:  
-   Tracks crime trends over an extended period, providing valuable context for understanding how crime patterns evolve over time and the impact of various interventions.
+      - Tracks crime trends over an extended period, providing valuable context for understanding how crime patterns evolve over time and the impact of various interventions.
 
 7. **Data-Driven Decisions**:  
-   Empowers stakeholders to make informed, data-driven decisions that enhance public safety, allocate resources efficiently, and develop effective crime prevention strategies.
+      - Empowers stakeholders to make informed, data-driven decisions that enhance public safety, allocate resources efficiently, and develop effective crime prevention strategies.
 
 ---
 
