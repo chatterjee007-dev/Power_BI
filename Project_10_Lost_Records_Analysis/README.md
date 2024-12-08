@@ -92,8 +92,13 @@ The **Lost Records Analysis** is an interactive Power BI visualization providing
 ---
 
 ## **Why This Project Matters**  
-- **Enhanced Data Security**: Provides critical insights that support the development of more effective data security measures, ultimately reducing the risk of data breaches and record loss.
-- **Data-Driven Decision Making**: Empowers organizations with robust data analysis to implement targeted security interventions where they are needed most.
-- **Historical Context**: Offers a detailed historical perspective on data breaches, helping to identify long-term trends and shifts in security practices.
-- **Global Impact**: Facilitates international cooperation and knowledge sharing, promoting global data security standards and practices.
-- **Operational Efficiency**: Informs continuous improvements in data security procedures, employee training, and technology investments, enhancing overall cybersecurity.
+- **Enhanced Data Security**:
+    - Provides critical insights that support the development of more effective data security measures, ultimately reducing the risk of data breaches and record loss.
+- **Data-Driven Decision Making**:
+    - Empowers organizations with robust data analysis to implement targeted security interventions where they are needed most.
+- **Historical Context**:
+    - Offers a detailed historical perspective on data breaches, helping to identify long-term trends and shifts in security practices.
+- **Global Impact**:
+    - Facilitates international cooperation and knowledge sharing, promoting global data security standards and practices.
+- **Operational Efficiency**:
+    - Informs continuous improvements in data security procedures, employee training, and technology investments, enhancing overall cybersecurity.
